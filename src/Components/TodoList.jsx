@@ -4,7 +4,7 @@ import styles from './TodoList.module.css'
 
 const TodoList = () => {
 
-    const [item, setItem] = useState(['Learning Reactjs', 'Learning Redux', 'Learning Nextjs'])
+    const [item, setItem] = useState(['Learning React', 'Learning Redux', 'Learning Next'])
     const [input, setInput] = useState('')
 
     const addItems = () => {
