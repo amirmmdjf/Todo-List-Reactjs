@@ -47,6 +47,7 @@
     flex-direction: column;
     align-items: center;
     overflow: auto;
+    overflow-x: hidden;
 }
 
 .main-box::-webkit-scrollbar {
@@ -115,7 +116,7 @@
 }
 
 @media only screen and (max-width: 418px) {
-    .item{
+    .item {
         padding-left: 10px;
     }
 }
