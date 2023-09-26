@@ -95,19 +95,27 @@
 }
 
 @media only screen and (max-width: 950px) {
-    .input{
+    .input {
         width: 35%
     }
-    .main-box {
-      width: 60%;
-    }
-  }
 
-  @media only screen and (max-width: 550px) {
-    .button{
+    .main-box {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .button {
         display: none;
     }
-    .input{
+
+    .input {
         width: 50%
     }
-  }
+}
+
+@media only screen and (max-width: 418px) {
+    .item{
+        padding-left: 10px;
+    }
+}
