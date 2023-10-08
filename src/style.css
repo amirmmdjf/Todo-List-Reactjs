@@ -1,7 +1,9 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
+body {
+    /* background: #0F2027;
+    background: -webkit-linear-gradient(to top, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to top, #2C5364, #203A43, #0F2027); */
     text-align: center;
-    margin: 0;
-    padding: 0;
-    background-color: #88A6C2;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-image: radial-gradient( circle 592px at 48.2% 50%,  rgba(255,255,249,0.6) 0%, rgba(160,199,254,1) 74.6% );    /* margin: 0; */
+
 }
