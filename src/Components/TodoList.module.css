@@ -1,10 +1,10 @@
 body{
-    background-color: #6f492e;
+    background-color: #363062;
 }
 
 .title {
     font-size: 44px;
-    color: #b99e6d;
+    color: #F99417;
     margin: 60px;
 }
 
@@ -36,7 +36,7 @@ body{
     border-radius: 4px;
     text-decoration: none;
     cursor: pointer;
-    background-color: #cd9719b0;
+    background-color: #F99417;
     color: #fff;
     font-size: 1rem;
     font-weight: 400;
@@ -47,7 +47,7 @@ body{
 .main-box {
     width: 30%;
     height: 350px;
-    background-color: #b9a26d;
+    background-color: #4D4C7D;
     margin: auto;
     padding: 20px;
     border-radius: 7px;
@@ -89,9 +89,9 @@ body{
     height: auto;
     border-radius: 5px;
     margin: 13px;
-    background-color: #a27f5d;
+    background-color: #F5F5F5;
     font-size: 18px;
-    color: #a03725;
+    color: #F99417;
     padding: 10px 7px 10px 0px;
     line-height: 1.7;
     font-weight: 600;
@@ -110,7 +110,7 @@ body{
     }
 
     .main-box {
-        width: 60%;
+        width: 65%;
     }
 }
 
